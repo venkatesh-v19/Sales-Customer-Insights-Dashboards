@@ -6,6 +6,10 @@ This project involves building two **interactive Tableau dashboards** to help st
 ## Sales Dashboard
 ### **Purpose**
 The **Sales Dashboard** offers an overview of sales metrics and trends to analyze **year-over-year performance** and identify sales patterns.
+### **Preview**
+![Dashboard Preview](preview/preview1.png)
+![Dashboard Preview](preview/preview2.png)
+![Dashboard Preview](preview/preview3.png)
 
 ### **Key Features**
 - **KPI Overview**: Summary of **total sales, profits, and quantity** for the current and previous years.
